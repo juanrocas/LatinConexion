@@ -710,3 +710,105 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-s8N3VbP15k H1 {
+  text-align: center;
+}
+.cid-s8N3VbP15k .mbr-text,
+.cid-s8N3VbP15k .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-s8O6WJZaMD {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s8O6WJZaMD .card-box {
+  padding: 0 2rem;
+}
+.cid-s8O6WJZaMD .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-s8O6WJZaMD .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-s8O6WJZaMD h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s8O6WJZaMD p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s8O6WJZaMD .mbr-text {
+  color: #767676;
+}
+.cid-s8O6WJZaMD .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s8O6WJZaMD .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-s8O6TDpeuf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #0f7699, #cc2952);
+}
+.cid-s8O6TDpeuf .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-s8O6TDpeuf .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-s8O6TDpeuf .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-s8O6TDpeuf .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-s8O6TDpeuf .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-s8O6TDpeuf .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-s8O6TDpeuf .plan-header,
+.cid-s8O6TDpeuf .plan-body {
+  background-color: #fff;
+}
+.cid-s8O6TDpeuf .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-s8O6TDpeuf .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-s8O6TDpeuf .price-figure {
+    font-size: 4.25rem;
+  }
+}
