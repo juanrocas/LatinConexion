@@ -327,11 +327,11 @@
           "_params": {
             "slides__autoplay": "true",
             "slides__autoplayInterval": "3000",
-            "slides__showBullets": false,
+            "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -347,11 +347,11 @@
                 "contentAlign": "left",
                 "text": "TODO PARA SU NEGOCIO EN UN SOLO LUGAR\n<br>Porque entendemos los desafios y las oportunidades que tienen los negocios Hispanos, ofrecemos una amplia variedad de servicios para que su marca se posicione en linea como la mejor opcion.\n<br>Hoy mas que nunca se hace necesario tener una presencia en linea firme y solida, que represente los valores agregados que su negocio puede ofrecer y que sobresalga como la mejor opcion para sus clientes actuales y potenciales.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Servicios</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contacto</a>",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.8"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
