@@ -71,10 +71,11 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "En Latin Conexion nos especializamos en potenciar su marca o negocio para ayudarle a crecer usando las mejores estrategia en desarrollo Web, Social Media, Marketing, Email, posicionamiento SEO, Diseño y Publicidad. Además integramos su negocio a las plataformas de mayor reconocimiento mundial como Google, Ebay, Shopify, Amazon y mucho más.\nTodo al mejor precio porque SOMOS LATINOS, COMO USTED y creemos en ayudar a nuestra comunidad.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/latconx-lettering.jpg"
       },
       "components": [
         {
