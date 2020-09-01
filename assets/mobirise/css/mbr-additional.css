@@ -1243,6 +1243,27 @@ section.lazy-placeholder:after {
   text-decoration: line-through;
   color: #767676;
 }
+.cid-s9mMSm6pCW {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #149dcc, #149dcc);
+}
+.cid-s9mMSm6pCW .main {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-s9mMSm6pCW .main .mbr-section-btn {
+  text-align: right;
+}
+.cid-s9mMSm6pCW .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-s9mMSm6pCW H2 {
+  text-align: center;
+}
+.cid-s9mMSm6pCW H3 {
+  text-align: center;
+}
 .cid-s9jKJBTYDn {
   padding-top: 120px;
   padding-bottom: 90px;
