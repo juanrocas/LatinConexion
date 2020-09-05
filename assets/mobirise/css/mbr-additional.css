@@ -1605,3 +1605,32 @@ section.lazy-placeholder:after {
 .cid-s9jvMnRxal .foot-logo {
   text-align: left;
 }
+.cid-qBU00plqle .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 100px;
+  background-color: #25d366;
+  color: #ffffff;
+  border-radius: 60px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+.cid-qBU00plqle .my-float {
+  margin-top: 16px;
+}
+.cid-qBU00plqle P {
+  color: #232323;
+}
+.cid-qBU00plqle DIV {
+  color: #ffffff;
+}
+.cid-qBU00plqle H10 {
+  color: #767676;
+}
+.cid-qBU00plqle .hidden {
+  display: none;
+}
