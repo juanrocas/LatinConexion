@@ -710,33 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-hXo50WAwvy .hidden {
-  display: none;
-}
-.cid-hXo50WAwvy .floating-bar {
-  position: fixed;
-  width: 60px;
-  height: 60px;
-  bottom: 40px;
-  right: 40px;
-  background-color: #27d467;
-  color: #ffffff;
-  border-radius: 50%;
-  text-align: center;
-  transition: 0.3s;
-  z-index: 99999;
-}
-.cid-hXo50WAwvy .floating-bar:hover {
-  background-color: #149dcc;
-}
-.cid-hXo50WAwvy .floating-button {
-  color: #ffffff;
-}
-.cid-hXo50WAwvy .valign {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
 .cid-s8N3VbP15k {
   background-image: url("../../../assets/images/roman-kraft-p8zdqz8y2vc-unsplash-2000x1481.jpg");
 }
