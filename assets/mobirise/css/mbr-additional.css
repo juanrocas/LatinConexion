@@ -710,17 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s8N3VbP15k {
-  background-image: url("../../../assets/images/roman-kraft-p8zdqz8y2vc-unsplash-2000x1481.jpg");
-}
-.cid-s8N3VbP15k H1 {
-  text-align: center;
-}
-.cid-s8N3VbP15k .mbr-text,
-.cid-s8N3VbP15k .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
 .cid-hXo50WAwvy .hidden {
   display: none;
 }
@@ -747,6 +736,17 @@ section.lazy-placeholder:after {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
+}
+.cid-s8N3VbP15k {
+  background-image: url("../../../assets/images/roman-kraft-p8zdqz8y2vc-unsplash-2000x1481.jpg");
+}
+.cid-s8N3VbP15k H1 {
+  text-align: center;
+}
+.cid-s8N3VbP15k .mbr-text,
+.cid-s8N3VbP15k .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-s9jvX7b1JF {
   padding-top: 45px;
