@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Latin Conexion",
-    "currentPage": "index.html",
+    "currentPage": "promo2020.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,7 @@
       "colorButton": "",
       "colorLink": "#424a4d",
       "underlineLink": true,
-      "opacity": "1",
+      "opacity": "93",
       "opacityOverlay": "80",
       "text": "Usamos cookies para darle una mejor experiencia en linea.\nWe use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
